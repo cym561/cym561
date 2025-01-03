@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @cym561
-- 👀 I’m interested in coding & computer science...
-- 🌱 I’m currently learning Cs50...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? Singocynthia38@gmail.com
-- Simy Cynthia @facebook.com...
-- ⚡ Fun fact: I love to sleep🤩...
+- 👋 Hi, I’m Singo Cynthia
 
-<!---
-cym561/cym561 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Bachelor of Software Development student at International University of Applied Science
+I'm passionate about programming and discovering the world in tech and connecting with my fellow developers.
+
+Join my journey!
